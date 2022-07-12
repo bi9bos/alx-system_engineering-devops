@@ -3,3 +3,4 @@ This prints the absolute current working directory to the terminal
 3-listfiles done
 4-listmorefiles done
 5-listfilesdigitonly done
+6-firstdirectory done
